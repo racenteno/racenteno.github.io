@@ -1,8 +1,9 @@
 #########
 #
-# workshop-template-b, evanwill
+# credit to: workshop-template-b, evanwill
 # a Jekyll template for a simple workshop website
 # https://github.com/evanwill/workshop-template-b
+# this is the template I used to create this website
 #
 #########
 
@@ -10,7 +11,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Griffith Library Workshop
+title: Raquel Centeno, Ph.D. Candidate
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -18,22 +19,22 @@ title: Griffith Library Workshop
 title-icon: tools
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "A workshop companion site presented by Griffith University Library"
-keywords: "workshops, Griffith, research, library"
+description: "The personal website for Raquel Centeno, a USC Ph.D. candidate in the department of Political Science and International Relations at the University of Southern California."
+keywords: "political science, Raquel Centeno, political behavior, public opinion, affective polarization, identity politics"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "/images/university-drive.jpg"
 # add search box to footer? true/false
-search: true
+search: false
 
 # author settings for cc-by, appears in the footer and credits
-author: Griffith University Library
+author: Raquel Centeno
 # your github username for link [optional]
-github_username: GriffithUniLibrary
+github_username: racenteno
 # year or date published
-pub_year: 2022
+pub_year: 2023
 # location of code, the full url to your github repository
-source-code: https://github.com/GULibrarySandbox/library-template-2022
+source-code: https://github.com/racenteno/racenteno.github.io
 
 ##########
 # URL VARIABLES [optional!]
@@ -42,7 +43,7 @@ source-code: https://github.com/GULibrarySandbox/library-template-2022
 #
 # use url for the domain, e.g. https://evanwill.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://racenteno.github.io
 # use baseurl to add subsection of the domain, e.g. /workshop-template-b
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
@@ -54,7 +55,7 @@ baseurl:
 #
 # leave this blank or comment out to NOT include google code
 # Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
-google-analytics-id: G-NC3PPY2JZB
+# google-analytics-id: G-NC3PPY2JZB
 
 ##########
 # ROBOTS EXCLUDE [optional!]
