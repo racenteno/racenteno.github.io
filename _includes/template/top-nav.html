@@ -5,8 +5,8 @@
             <span class="navbar-toggler-icon"></span>
         </button>
 
-        <div class="collapse navbar-collapse justify-content-center" id="mainNav">
-            <ul class="navbar-nav nav-tabs justify-content-center">
+        <div class="collapse navbar-collapse justify-content-end text-align: center" id="mainNav">
+            <ul class="navbar-nav nav-tabs justify-content-end text-align: center">
             {% for section in site.html_pages %}{% if section.nav %}
                 <li class="nav-item">
                     <a class="nav-link{% if page.url == section.url %} active{% endif %} p-3 h-100" href="{{ section.url | relative_url }}">{% if section.nav == true %}{{ section.title }}{% else %}{{ section.nav }}{% endif %}</a>
