@@ -8,7 +8,7 @@ layout: default
 
 {% include figure.html img="centeno_headshot.jpg" alt="Headshot of Raquel Centeno" width="50" height="50" %}
 
-<img src="centeno_headshot.jpg" width="50" height="50" />
+<img src="https://github.com/racenteno/racenteno.github.io/blob/3452aa1743b412422ecc4440a9ec7d8fa92423ba/images/centeno_headshot.jpg" data-canonical-src="https://github.com/racenteno/racenteno.github.io/blob/3452aa1743b412422ecc4440a9ec7d8fa92423ba/images/centeno_headshot.jpg" width="50" height="50" />
 
 **Hi, my name is Raquel Centeno.** I'm a Ph.D. Candidate at the University of Southern California studying how voters think and feel about parties and partisanship. I also explore how these feelings are impacted by voters' various group identities. My subfields are American politics and Methods, and I am particularly interested in subjects related to **public opinion** and **political psychology**.
 
