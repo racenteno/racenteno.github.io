@@ -6,7 +6,8 @@ layout: default
 ## Raquel Centeno
 ### Public Opinion, Political Behavior, Identity Politics
 
-{% include figure.html img="centeno_headshot.jpg" style="float: left" alt="Headshot of Raquel Centeno" width="100%" %}
+{% include figure.html img="centeno_headshot.jpg" style="clear: left" alt="Headshot of Raquel Centeno" width="75%" 
+  height="75%"%}
 
 **Hi, my name is Raquel Centeno.** I'm a Ph.D. Candidate at the University of Southern California studying how voters think and feel about parties and partisanship. I also explore how these feelings are impacted by voters' various group identities. My subfields are American politics and Methods, and I am particularly interested in subjects related to **public opinion** and **political psychology**.
 
@@ -16,7 +17,7 @@ Prior to USC, I completed my BA in Political Science at California Lutheran Univ
 
 When I'm not doing academic work, I enjoy doing OrangeTheory a few times a week, playing video games on my Nintendo Switch, and spending time with my cat Xochi.
 
-{% include figure.html img="xochi_lay_down.jpeg" alt="Photo of Xochi, Raquel Centeno's cat" caption="Xochi (pronounced so-chee), the cat I spend my time with." width="100%" height="75"%}
+{% include figure.html img="xochi_lay_down.jpeg" alt="Photo of Xochi, Raquel Centeno's cat" caption="Xochi (pronounced so-chee), the cat I spend my time with." width="125%" height="50%" %}
 
 If you are someone interested in political science as a field, wondering what graduate school is like, or even thinking about USC as a grad school option, feel free to reach out to me via email! I'm always happy to chat.
 
