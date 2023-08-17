@@ -8,7 +8,7 @@ layout: default
 
 **Hi, my name is Raquel Centeno.** I'm a Ph.D. Candidate at the University of Southern California studying how voters think and feel about parties and partisanship. I also explore how these feelings are impacted by voters' various group identities. My subfields are American politics and Methods, and I am particularly interested in subjects related to **public opinion** and **political psychology**.
 
-[Download and view my CV here!](https://github.com/racenteno/racenteno.github.io/blob/213c28b1a94a2b9cced16d6945b4f6dada02b96a/static/centeno_cv.pdf)
+[Download and view my CV here!](https://github.com/racenteno/racenteno.github.io/blob/e598a250bbb1a8b409956243ecbcb3ac2541daea/static/centeno_cv.pdf)
 
 {% include figure.html img="centeno_headshot.jpg" alt="Headshot of Raquel Centeno" height="50" %}
 
