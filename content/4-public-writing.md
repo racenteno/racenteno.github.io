@@ -1,5 +1,5 @@
 ---
-title: Public-Facing Writing
+title: Public-Facing Writing & Appearances
 nav: Public Writing
 ---
 
@@ -8,6 +8,10 @@ On this page you can find the public-facing, non-peer reviewed writing that I ha
 ##### [2022: USC Schwarzenegger Institute California Issues Poll (with Christian Grose)](http://schwarzeneggerinstitute.com/images/files/USC_Schwarzenegger_Institute_California_Issues_Poll_2022_Results.pdf)
 
 I served as the Student Poll Lead for the USC Schwarzenegger Institute's 2022 California Issues Poll. This entailed choosing key themes for the poll, making design choices, assisting in the sampling and distribution process, and processing and writing up the results. Linked here is the final write-up for the poll.
+
+##### [2022: How Closed Primaries Disproportionately Impact Latino and Asian Voters (for Open Primaries)](https://www.youtube.com/watch?v=3Q_WPisPWIM)
+
+I was invited to present my co-authored research on primaries as part of the Open Primaries Virtual Discussions Series. This was a live Zoom event where I discussed the findings of our research and answered both moderated and live audience questions about the impact of primary electoral rules on Asian American and Latinx voting turnout alongside Danny Ortega (attorney & the Former Board Chair of the National Council of La Raza). 
 
 ##### [2021: A voting rights analysis of high-Latino-CVAP proposed districts in south and east L.A. County: Are proposed districts in L.A. County and the southern California area Latino-ability-to-elect districts? (with Christian Grose)]( https://tinyurl.com/mjfyyze8)
 
