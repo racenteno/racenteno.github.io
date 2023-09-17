@@ -6,7 +6,7 @@ layout: default
 ## Raquel Centeno
 ### Public Opinion, Political Behavior, Identity Politics
 
-**Hi, my name is Raquel Centeno.** I'm a Ph.D. Candidate at the University of Southern California studying how voters think and feel about parties and partisanship. I also explore how these feelings are impacted by voters' various group identities, particularly race and racial identity. My subfields are American politics and Methods, and I am particularly interested in subjects related to **public opinion** and **political psychology**.
+**Hi, my name is Raquel Centeno.** I'm a Ph.D. Candidate at the University of Southern California studying how voters think and feel about parties and partisanship. I also explore how these feelings are impacted by voters' various group identities, particularly race and racial identity. My subfields are American politics and Methods, and I am especially interested in subjects related to **public opinion** and **political psychology**.
 
 [Download and view my CV here!](https://www.dropbox.com/scl/fi/6jrznyfc981clh3mg2nah/centeno_cv_fall_2023.pdf?rlkey=laz9id4kvvaocyyfw6gamyn5x&dl=0)
 
