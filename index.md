@@ -18,7 +18,7 @@ Prior to USC, I completed my BA in Political Science at California Lutheran Univ
 
 When I'm not doing academic work, I enjoy doing fitness classes a few times a week, playing video games on my Nintendo Switch, going to farmer's markets, and spending time with my cat Xochi.
 
-{% include figure.html img="xochi_sit.jpeg" alt="Photo of Xochi, Raquel Centeno's cat" caption="Xochi (pronounced so-chee), the cat I spend my time with." width=125 height=50 %}
+{% include figure.html img="xochi_sit1.jpeg" alt="Photo of Xochi, Raquel Centeno's cat" caption="Xochi (pronounced so-chee), the cat I spend my time with." width=125 height=50 %}
 
 If you are someone interested in political science as a field, wondering what graduate school is like, or even thinking about USC as a grad school option, feel free to reach out to me via email! I'm always happy to chat.
 
