@@ -11,7 +11,7 @@
 # SITE SETTINGS
 #
 # title appears in the header
-title: Raquel Centeno, Ph.D. Candidate
+title: Raquel Centeno, Ph.D.
 # title-icon appears in the header to give some pizazz (leave blank for none)
 # choose from Bootstrap Icons in _includes/bootstrap-icons
 # find names on https://icons.getbootstrap.com/
@@ -19,8 +19,8 @@ title: Raquel Centeno, Ph.D. Candidate
 title-icon: clipboard2-data
 # description, keywords, and image for meta tags
 # these do not visibility appear on the pages, but used for SEO
-description: "The personal website for Raquel Centeno, a USC Ph.D. candidate in the department of Political Science and International Relations at the University of Southern California."
-keywords: "political science, Raquel Centeno, political behavior, public opinion, affective polarization, identity politics, American politics"
+description: "The personal website for Raquel Centeno, Postdoctoral Teaching Scholar at the Caltech Linde Center for Science, Society, and Policy."
+keywords: "political science, Raquel Centeno, political behavior, public opinion, affective polarization, identity politics, American politics, electoral systems, election science"
 # featured-image is added to metadata tags for social media sharing
 # use a relative path to image in this repository or full URL
 featured-image: "centeno_headshot.jpg"
@@ -32,7 +32,7 @@ author: Raquel Centeno
 # your github username for link [optional]
 github_username: racenteno
 # year or date published
-pub_year: 2023
+pub_year: 2025
 # location of code, the full url to your github repository
 source-code: https://github.com/racenteno/racenteno.github.io
 
