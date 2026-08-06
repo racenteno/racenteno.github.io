@@ -1,79 +1,84 @@
 #########
 #
-# credit to: workshop-template-b, evanwill
-# a Jekyll template for a simple workshop website
-# https://github.com/evanwill/workshop-template-b
-# this is the template I used to create this website
+# Personal academic website for Raquel Centeno
+#
+# Styled after the academicpages template
+# (https://github.com/academicpages/academicpages.github.io), which is
+# itself derived from Minimal Mistakes by Michael Rose. Layouts,
+# includes, and CSS all live in this repository -- no theme gem needed.
 #
 #########
 
 #######
 # SITE SETTINGS
 #
-# title appears in the header
-title: Raquel Centeno, Ph.D.
-# title-icon appears in the header to give some pizazz (leave blank for none)
-# choose from Bootstrap Icons in _includes/bootstrap-icons
-# find names on https://icons.getbootstrap.com/
-# some options: code-slash file-code gear tools lightblub book bookmark-star
-title-icon: clipboard2-data
-# description, keywords, and image for meta tags
-# these do not visibility appear on the pages, but used for SEO
+title: "Raquel Centeno, Ph.D."
+# shorter title used in the masthead (falls back to title if blank)
+masthead_title: "Raquel Centeno"
 description: "The personal website for Raquel Centeno, Postdoctoral Teaching Scholar at the Caltech Linde Center for Science, Society, and Policy."
 keywords: "political science, Raquel Centeno, political behavior, public opinion, affective polarization, identity politics, American politics, electoral systems, election science"
-# featured-image is added to metadata tags for social media sharing
-# use a relative path to image in this repository or full URL
-featured-image: "centeno_headshot.jpg"
-# add search box to footer? true/false
-search: false
-
-# author settings for cc-by, appears in the footer and credits
-author: Raquel Centeno
-# your github username for link [optional]
-github_username: racenteno
-# year or date published
+# featured-image is used for social media sharing cards
+featured-image: "/images/centeno_headshot.jpg"
+source-code: "https://github.com/racenteno/racenteno.github.io"
 pub_year: 2025
-# location of code, the full url to your github repository
-source-code: https://github.com/racenteno/racenteno.github.io
+
+#######
+# AUTHOR SIDEBAR
+#
+# Everything here renders in the left-hand author profile.
+# Leave a field blank (or delete it) to hide that link.
+#
+author:
+  name: "Raquel Centeno"
+  avatar: "/images/centeno_headshot.jpg"
+  bio: "Postdoctoral Teaching Scholar studying public opinion, political behavior, and identity politics."
+  employer: "Caltech Linde Center"
+  location: "Pasadena, California"
+  email: "centeno@caltech.edu"
+  # TODO: paste your full Google Scholar profile URL, e.g.
+  # https://scholar.google.com/citations?user=XXXXXXXXXXXX
+  googlescholar: ""
+  # TODO: paste your ORCID iD URL, e.g. https://orcid.org/0000-0000-0000-0000
+  orcid: ""
+  # TODO: your Bluesky handle only, e.g. racenteno.bsky.social
+  bluesky: ""
+  github: "racenteno"
+
+#######
+# CV
+#
+# Stable link used by the CV page and the sidebar button.
+cv_url: "https://www.dropbox.com/scl/fi/v4ljjgroin0bwm67c9imb/centeno_cv.pdf?rlkey=dz8q0sdn70hh73daujz7v3n4g&st=zd4t7dkv&dl=0"
 
 ##########
-# URL VARIABLES [optional!]
+# URL VARIABLES
 #
-# Optional if using GitHub Pages! If building manually, these must be set correctly.
-#
-# use url for the domain, e.g. https://evanwill.github.io
-# on gh-pages follow the pattern: https://username.github.io
 url: https://racenteno.github.io
-# use baseurl to add subsection of the domain, e.g. /workshop-template-b
-# on gh-pages this is a / followed by the name of the repository
-# baseurl is your github repository's name prefixed with a /
 baseurl:
 
-
 ##########
-# GOOGLE ANALYTICS [optional!]
+# GOOGLE ANALYTICS [optional]
 #
-# leave this blank or comment out to NOT include google code
-# Add your google-analytics-id to automatically add the embed code, e.g. "UA-76328753-1"
 # google-analytics-id: G-NC3PPY2JZB
 
 ##########
-# ROBOTS EXCLUDE [optional!]
+# ROBOTS EXCLUDE [optional]
 #
-# set noindex to true if you do NOT want Google to index your site
-# noindex: true 
-
+# noindex: true
 
 #######
-# BUILD SETTINGS [usually leave as is]
+# BUILD SETTINGS
 #
-# Defaults to simplify front matter
 defaults:
   - scope:
-      path: "content"
+      path: ""
     values:
-      layout: "section"
-# ignore stuff
-exclude: [README.md, LICENSE, assets/lib/README.md]
-# Build settings
+      layout: "single"
+      author_profile: true
+
+include: ["_pages"]
+exclude: [README.md, LICENSE, .Rhistory, .DS_Store]
 markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true

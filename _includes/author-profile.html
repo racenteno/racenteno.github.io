@@ -1,0 +1,42 @@
+<div itemscope itemtype="https://schema.org/Person">
+
+  {% if site.author.avatar %}
+  <div class="author__avatar">
+    <img src="{{ site.author.avatar | relative_url }}" alt="{{ site.author.name }}" itemprop="image">
+  </div>
+  {% endif %}
+
+  <div class="author__content">
+    <h3 class="author__name" itemprop="name">{{ site.author.name }}</h3>
+    {% if site.author.bio %}<p class="author__bio" itemprop="description">{{ site.author.bio }}</p>{% endif %}
+  </div>
+
+  <div class="author__urls-wrapper">
+    <ul class="author__urls social-icons">
+      {% if site.author.employer %}
+      <li itemprop="worksFor" itemscope itemtype="https://schema.org/Organization"><i class="fa-solid fa-fw fa-building-columns" aria-hidden="true"></i> <span itemprop="name">{{ site.author.employer }}</span></li>
+      {% endif %}
+      {% if site.author.location %}
+      <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place"><i class="fa-solid fa-fw fa-location-dot" aria-hidden="true"></i> <span itemprop="name">{{ site.author.location }}</span></li>
+      {% endif %}
+      {% if site.author.email %}
+      <li><a href="mailto:{{ site.author.email }}"><i class="fa-solid fa-fw fa-envelope" aria-hidden="true"></i><span class="label">Email</span></a></li>
+      {% endif %}
+      {% if site.cv_url %}
+      <li><a href="{{ site.cv_url }}"><i class="fa-solid fa-fw fa-file-lines" aria-hidden="true"></i><span class="label">CV</span></a></li>
+      {% endif %}
+      {% if site.author.googlescholar %}
+      <li><a href="{{ site.author.googlescholar }}"><i class="fa-brands fa-fw fa-google-scholar" aria-hidden="true"></i><span class="label">Google Scholar</span></a></li>
+      {% endif %}
+      {% if site.author.orcid %}
+      <li><a href="{{ site.author.orcid }}"><i class="fa-brands fa-fw fa-orcid" aria-hidden="true"></i><span class="label">ORCID</span></a></li>
+      {% endif %}
+      {% if site.author.bluesky %}
+      <li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fa-brands fa-fw fa-bluesky" aria-hidden="true"></i><span class="label">Bluesky</span></a></li>
+      {% endif %}
+      {% if site.author.github %}
+      <li><a href="https://github.com/{{ site.author.github }}"><i class="fa-brands fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
+      {% endif %}
+    </ul>
+  </div>
+</div>

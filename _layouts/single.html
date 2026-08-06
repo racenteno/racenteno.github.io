@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="page" itemscope itemtype="https://schema.org/CreativeWork">
+  <div class="page__inner-wrap">
+    {% unless page.hide_title %}
+    <header>
+      <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+      {% if page.subtitle %}<p class="page__lead">{{ page.subtitle }}</p>{% endif %}
+    </header>
+    {% endunless %}
+
+    <section class="page__content" itemprop="text">
+      {{ content }}
+    </section>
+  </div>
+</article>
