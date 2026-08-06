@@ -1,0 +1,14 @@
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    <li><strong>Find me elsewhere:</strong></li>
+    {% if site.author.email %}<li><a href="mailto:{{ site.author.email }}"><i class="fa-solid fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>{% endif %}
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}"><i class="fa-brands fa-fw fa-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>{% endif %}
+    {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}"><i class="fa-brands fa-fw fa-orcid" aria-hidden="true"></i> ORCID</a></li>{% endif %}
+    {% if site.author.bluesky %}<li><a href="https://bsky.app/profile/{{ site.author.bluesky }}"><i class="fa-brands fa-fw fa-bluesky" aria-hidden="true"></i> Bluesky</a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}"><i class="fa-brands fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>{% endif %}
+  </ul>
+</div>
+
+<div class="page__footer-copyright">
+  &copy; {{ site.pub_year }} {{ site.author.name }}. Content licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>. Built with <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>, styled after <a href="https://github.com/academicpages/academicpages.github.io" rel="nofollow">AcademicPages</a>. <a href="{{ site.source-code }}">Source</a>.
+</div>

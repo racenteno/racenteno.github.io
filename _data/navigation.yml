@@ -1,0 +1,12 @@
+# Masthead navigation links.
+# Add, remove, or reorder items here and both the top nav and the
+# mobile menu update automatically.
+main:
+  - title: "CV"
+    url: /cv/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Public Writing"
+    url: /public-writing/
