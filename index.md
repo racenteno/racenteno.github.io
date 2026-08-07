@@ -1,6 +1,6 @@
 ---
 title: "Raquel Centeno"
-subtitle: "Public Opinion, Political Behavior, and Identity Politics"
+subtitle: "American Politics | Public Opinion | Political Behavior | Identity Politics"
 permalink: /
 author_profile: true
 ---
@@ -21,9 +21,7 @@ I am fortunate to be the recipient of multiple grants for my research in this ar
 
 Prior to Caltech, I completed my PhD in Political Science and International Relations at the University of Southern California (2025). I completed my BA in Political Science at California Lutheran University in 2018. I have also been an instructor in American politics at Occidental College. Outside of academic work, I have served as a Research Associate at The Center for Election Science where I was able to apply my survey and experimental research skills to understanding how voters think about electoral systems and ballot initiatives. I also regularly engage in academic political polling, including doing work on the USC Schwarzenegger Institute's California Issues Poll and the CSU Long Beach Center for Urban Politics and Policy's California Elections and Policy Poll.
 
-## Outside of Work
-
-Outside academic work I enjoy cooking, going to farmer's markets, exploring Los Angeles, and spending time with my cat Xochi.
+Outside of academic work I enjoy cooking, going to farmer's markets, casual running with run clubs, and spending time with my cat Xochi.
 
 {% include figure.html img="xochi_sit1.jpeg" alt="Photo of Xochi, Raquel Centeno's cat" caption="Xochi (pronounced so-chee), the cat I spend my time with." width="260px" %}
 

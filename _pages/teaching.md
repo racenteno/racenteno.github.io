@@ -25,6 +25,6 @@ An introductory course for Occidental College students interested in American po
 
 ### Law, Politics, and Public Policy
 
-*University of Southern California, taught by Prof. Jeb Barnes*
+*University of Southern California, taught by Prof. Jeb Barnes, Art Auerbach, and Sam Zacher*
 
 This course examined the role of law and courts in society; the American justice system; and the complex relationship between law, politics, and public policy in the United States. The course studied law and public policy through a variety of disciplinary lenses and case studies, some contemporary and some historical, with a broader aim of pushing students to explore the underlying theoretical debates and sharpen their analytic skills.

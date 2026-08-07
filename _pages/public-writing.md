@@ -1,11 +1,39 @@
 ---
 title: "Public Writing"
-subtitle: "Public-facing writing and appearances"
+#subtitle: "Public-facing writing and appearances"
 permalink: /public-writing/
 author_profile: true
 ---
 
 Below is the public-facing, non-peer reviewed writing that I have published both independently and alongside other academics.
+
+## 2026
+
+### [Elections Are About People (Election Science Field Notes)](https://electionscience.substack.com/p/elections-are-about-people?r=6cbnf3&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
+*with R. Michael Alvarez*
+
+### [CSULB Center for Urban Politics and Policy - California Elections and Public Policy Poll Spring 2026](https://www.politico.com/f/?id=0000019e-804f-d4e8-afde-e04f9b1e0000)
+
+*with Christian Grose, Jarred Cuellar, Matthew Mendez Garcia, and Alex Wong*
+
+## 2025
+
+### [Latino Voters and the November 2025 Special Election: Redistricting and Representation](https://www.cpp.edu/class/political-science/docs/media/proposition-50.pdf)
+
+*with Jarred Cuellar*
+
+This analysis received attention from political media and practitioners during the Proposition 50 election in fall 2025. This report was covered by [Politico California Playbook](https://www.politico.com/newsletters/california-playbook/2025/10/23/federal-agents-assemble-across-the-bay-00619516) and [The Los Angeles Times](https://www.latimes.com/delos/story/2025-10-31/latinos-vote-perreo-to-the-polls-voting-booth-proposition-50), as well as cited in a lawsuit about Proposition 50 [(Tangipa, et al. v. Newsom, et al.)](https://thearp.org/litigation/tangipa-v-newsom/).
+
+## 2024
+
+### [CSULB Center for Urban Politics and Policy - California Elections and Public Policy Poll Fall 2024](https://today.usc.edu/wp-content/uploads/2024/09/California-Elections-and-Policy-Poll-Statewide-Poll-Toplines-and-Crosstabs-FINAL.pdf)
+
+*with Christian Grose, Jarred Cuellar, and Matthew Mendez Garcia*
+
+### [CSULB Center for Urban Politics and Policy - California Elections and Public Policy Poll Winter 2024](https://dornsife.usc.edu/news-briefs/wp-content/uploads/sites/182/2024/01/USC-CSU-CEPPoll.pdf)
+
+*with Christian Grose, Jarred Cuellar, and Matthew Mendez Garcia*
 
 ## 2022
 

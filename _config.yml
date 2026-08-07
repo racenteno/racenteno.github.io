@@ -31,17 +31,15 @@ pub_year: 2025
 author:
   name: "Raquel Centeno"
   avatar: "/images/centeno_headshot.jpg"
-  bio: "Postdoctoral Teaching Scholar studying public opinion, political behavior, and identity politics."
-  employer: "Caltech Linde Center"
-  location: "Pasadena, California"
+  bio: "Political scientist studying public opinion and political behavior in American politics."
+  employer: "Caltech"
   email: "centeno@caltech.edu"
   # TODO: paste your full Google Scholar profile URL, e.g.
   # https://scholar.google.com/citations?user=XXXXXXXXXXXX
-  googlescholar: ""
-  # TODO: paste your ORCID iD URL, e.g. https://orcid.org/0000-0000-0000-0000
-  orcid: ""
+  #googlescholar: ""
+  orcid: "https://orcid.org/0000-0001-7529-0469"
   # TODO: your Bluesky handle only, e.g. racenteno.bsky.social
-  bluesky: ""
+  bluesky: "rcenteno.bsky.social"
   github: "racenteno"
 
 #######
